@@ -1,0 +1,17 @@
+/_includes/*
+/_layouts/*
+/_sass/*
+/_site/*
+/css/*
+_config.yml
+deploy.sh
+favicon.ico
+feed.xml
+index.html
+jekyll.thor
+jquery.js
+masonry.pkgd.min.js
+robots.txt
+s3_website.yml
+search.js
+sitemap.xml
