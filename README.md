@@ -1,9 +1,6 @@
-# CloudBerry Lab open knowledge base
-
 ![CloudBerry Lab](/images/cblogo-vertical-black-bg-transparent.png)
-[http://kb.cloudberrylab.com][8eb654ee]
 
-  [8eb654ee]: http://kb.cloudberrylab.com "CloudBerry Lab knowledge base"
+# CloudBerry Lab Knowledge base
 
 Welcome to CloudBerry Lab knowledge base! Help us build reliable product! This knowledge base contains the most frequent issues related to all CloudBerry products (Backup, Explorer, Drive).
 
