@@ -1,5 +1,6 @@
 # CloudBerry Lab open knowledge base
 
+![CloudBerry Lab](/images/cblogo-vertical-black-bg-transparent.png)
 [http://kb.cloudberrylab.com][8eb654ee]
 
   [8eb654ee]: http://kb.cloudberrylab.com "CloudBerry Lab knowledge base"
