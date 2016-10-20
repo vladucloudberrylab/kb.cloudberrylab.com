@@ -1,6 +1,7 @@
 ---
 layout: category
-title: minio
+title: Minio Cloud Storage
+slug: minio-cloud-storage
 ---
 
 ## What is Minio

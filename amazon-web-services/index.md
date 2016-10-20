@@ -1,8 +1,5 @@
 ---
 layout: category
-title: AWS category
-category: aws
+title: Amazon Web Services
+slug: amazon-web-services
 ---
-
-
-<h1>All posts in AWS</h1>

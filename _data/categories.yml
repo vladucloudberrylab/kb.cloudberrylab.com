@@ -1,6 +1,10 @@
 - name: Support
   slug: support
+- name: Managed Backup Service
+  slug: managed-backup-service
 - name: Amazon Web Services
   slug: amazon-web-services
+- name: Backblaze B2
+  slug: backblaze-b2
 - name: Minio Cloud Storage
   slug: minio-cloud-storage
