@@ -1,0 +1,4 @@
+- name: Amazon Web Services
+  slug: amazon-web-services
+- name: Minio Cloud Storage
+  slug: minio-cloud-storage
