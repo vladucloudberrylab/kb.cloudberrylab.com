@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Minio Object Storage
+title: minio
 ---
 
 ## What is Minio
