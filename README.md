@@ -14,3 +14,4 @@ Fork the project and make changes as follows:
 * _posts folder - the place we keep article markups (markdown is used). File should be YYYY-MM-DD-kbZZZZ.md (where YYYY - year in 4 digits, MM - month in 2 digits, DD - day in 2 digits, ZZZZ - last + 1 KB number).
 
 We accept pull requests, please add description.
+
